@@ -2,26 +2,5 @@
 	"ip":"powtani.aternos.me",
 	"port": "62094",
 	"name": "Nugleet"
-	},
-
-	"keyword":{
-		"name" :
-		[
-			"POTAA"
-		],
-
-		"sleep" :
-		[
-			"sleep",
-			"Sleep"
-		]
-	},
-
-	"message":{
-		"online":"POTAAA",
-		"afk":"BALIK LNG KO LINTE",
-		"sleep":"TULOG KO ANAY BWESIT",
-		"greeting":"HOY GAGO"
-	}
 }
 
