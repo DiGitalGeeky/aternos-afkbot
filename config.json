@@ -1,5 +1,27 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"powtani.aternos.me",
+	"port": "62094",
+	"name": "Nugleet"
+	},
+
+	"keyword":{
+		"name" :
+		[
+			"POTAA"
+		],
+
+		"sleep" :
+		[
+			"sleep",
+			"Sleep"
+		]
+	},
+
+	"message":{
+		"online":"POTAAA",
+		"afk":"BALIK LNG KO LINTE",
+		"sleep":"TULOG KO ANAY BWESIT",
+		"greeting":"HOY GAGO"
+	}
 }
+
