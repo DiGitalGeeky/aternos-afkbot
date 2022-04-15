@@ -1,31 +1,5 @@
 {
-	"user":{
-		"username":"Nugleet",
-		"pass":""
-	},
-
-	"server":{
-		"address":"powtani.aternos.me",
-		"port":62094
-	},
-
-	"keyword":{
-		"name" :
-		[
-			"POTAA"
-		],
-
-		"sleep" :
-		[
-			"sleep",
-			"Sleep"
-		]
-	},
-
-	"message":{
-		"online":"POTAAA",
-		"afk":"BALIK LNG KO LINTE",
-		"sleep":"TULOG KO ANAY BWESIT",
-		"greeting":"HOY GAGO"
-	}
+	"ip":"powtani.aternos.me",
+	"port": "62094",
+	"name": "FawrFawr"
 }
